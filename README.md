@@ -2,6 +2,7 @@
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
+Mobile app with geolocation , chatroom, camera recognition.
 
 - 🌱 I’m currently learning ...
 ReactJs
